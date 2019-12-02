@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-# Day 1 - Problem 1
+# Day 1: The Tyranny of the Rocket Equation
+# Part 1
 # Pass a file with the input as an argument
 
 import sys
